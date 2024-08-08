@@ -1,3 +1,3 @@
 # dio.restAssured
 
-Neste projeto exploraremos o framework RestAssured + JUnit e a geração de reports com o Allure Framework, além disso também usaremos JsonServer para simular uma API.
+In this project we will explore the RestAssured + JUnit framework and report generation with the Allure Framework, in addition we will also use JsonServer to simulate an API.
